@@ -7,9 +7,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h1>Front-end : React, Vue.js, Nuxt.js, Tailwind</h1>
-<h1>Back-end : Flask, Django, Tornado, Node.js</h1>
-<h1>Databases : PostgreSQL</h1>
-<h1>Cloud : AWS</h1>
-<h1>Deployment : Nginx</h1>
-<h1>Web Tests : Playwright, Cucumber, Selenium</h1>
+<h3>Front-end : React, Vue.js, Nuxt.js, Tailwind</h3>
+<h3>Back-end : Flask, Django, Tornado, Node.js</h3>
+<h3>Databases : PostgreSQL</h3>
+<h3>Cloud : AWS</h3>
+<h3>Deployment : Nginx</h3>
+<h3>Web Tests : Playwright, Cucumber, Selenium</h3>
